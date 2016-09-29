@@ -1,0 +1,22 @@
+# global assets.
+global-styling:
+  version: 8.x-1.0
+  css:
+    theme:
+      assets/css/style.css: {}
+  js:
+    assets/js/scripts.js: {}
+    
+# AR.
+ar-css:
+  version: 8.x-1.0
+  css:
+    theme:
+      assets/css/ar.css: {}   
+      
+# EN.
+en-css:
+  version: 8.x-1.0
+  css:
+    theme:
+      assets/css/en.css: {}
