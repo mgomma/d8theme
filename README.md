@@ -3,7 +3,7 @@
 Introduction:
 
 
-  Simple blank theme  to inject any style and have custom html for elements easily.
+  Simple blank theme  to inject any style and have custom html for elements easily see https://youtu.be/n9YOxCq2I4w.
 
   Supports ar, en styles in separate files for people don't like [dir="rtl"].
 
